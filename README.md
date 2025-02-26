@@ -1,11 +1,6 @@
 - Hi, I’m ritos
 - I’m interested programming and gaiming
 - I’m currently learning to speedrun smo
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Gervasio-Gregorio/Gervasio-Gregorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- You can reach me by my mail ritos2008@gmail.com
+- Pronouns: your magesty
+- Fun fact: i also like to program game
