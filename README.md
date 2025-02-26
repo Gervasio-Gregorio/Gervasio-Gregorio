@@ -1,6 +1,6 @@
-Hi, I’m ritos
-I’m interested programming and gaiming
-I’m currently to speedrun smo
+- Hi, I’m ritos
+- I’m interested programming and gaiming
+- I’m currently to speedrun smo
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
